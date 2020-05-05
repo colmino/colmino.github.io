@@ -1,2 +1,0 @@
-# colmino.github.io
-myTiddlyWiki
